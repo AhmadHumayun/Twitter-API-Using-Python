@@ -1,2 +1,2 @@
-# Twitter-Bot-With-Python
-Send Greetings DM to New Followers
+# Twitter-API-Using-Python
+Testing Different Endpoints of Twitter API using Python
